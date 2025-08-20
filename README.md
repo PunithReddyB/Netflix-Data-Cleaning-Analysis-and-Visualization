@@ -49,7 +49,7 @@ The dataset includes details of Netflix content such as:
 
 • Clone the repository
 
-git clone https://github.com/your-username/unified-netflix-analysis.git
+git clone https://github.com/PunithReddyB/Netflix-Data-Cleaning-Analysis-and-Visualization.git
 cd unified-netflix-analysis
 
 • Install dependencies
